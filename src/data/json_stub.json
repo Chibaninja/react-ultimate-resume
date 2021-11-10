@@ -120,7 +120,7 @@
             "endDate": "2017-04-01"
         },
         {
-            "index": 3,
+            "index": 4,
             "date": { "month": 5, "year": 2018 },
             "description": "A ChatOps service built on Slack that allows developers to build/deploy their artifact with a line of simple command.",
             "id": "c64e6ca1-6300-4d7f-a305-8cfb7c99a9e6",
@@ -129,7 +129,7 @@
             "endDate": "2020-06-01"
         },
         {
-            "index": 1,
+            "index": 5,
             "date": { "month": 7, "year": 2020 },
             "description": "An AI oriented reception application built to reduce the cost of recepting visitors.",
             "id": "d9f7ca32-a40a-418e-affb-317bfb4f520e",
@@ -138,25 +138,25 @@
             "endDate": "2020-08-01"
         },
         {
-            "index": 4,
+            "index": 0,
             "date": { "month": 7, "year": 2021 },
             "description": "Doorknob agent is a platform to connect real estate agents and buyers, born at SoftBank Innoventure. It introduces an innovative way to allow users register what their ideal houses look like and get notified about selected candidates of houses from the agents.",
             "id": "d9f7ca32-a40a-418e-affb-317bfb4f520e",
             "images": [{ "url": "https://cdn.filestackcontent.com/NVOhKNFQR9OQ3jtkIyHi" }],
             "name": "Doorknob",
-            "endDate": "On Going"
+            "endDate": "2022"
         },
         {
-            "index": 4,
+            "index": 1,
             "date": { "month": 7, "year": 2021 },
             "description": "Famifami is a platform for users who value families to find their ideal life partners. The vision is to create a world where mature partners can have the peace of mind to create happy, loving families.",
             "id": "d9f7ca32-a40a-418e-affb-317bfb4f520e",
             "images": [{ "url": "https://cdn.filestackcontent.com/NVOhKNFQR9OQ3jtkIyHi" }],
             "name": "famifami",
-            "endDate": "On Going"
+            "endDate": "2022"
         },
         {
-            "index": 6,
+            "index": 2,
             "date": { "month": 4, "year": 2020 },
             "description": "A game companion service which connects those who want companion during gaming and those who want to earn through providing the companion service.",
             "id": "dbe2a8d9-dd9d-443d-8ae4-7a8e0b7939f5",
@@ -165,7 +165,7 @@
             "endDate": "2019-05-01"
         },
         {
-            "index": 0,
+            "index": 3,
             "date": { "month": 6, "year": 2019 },
             "description": "Monitoring services that used primarily by NEXCO to prevent accident to happen on highways.",
             "id": "ffb8a4f2-24e6-44ef-bbe7-0593b86d40be",
