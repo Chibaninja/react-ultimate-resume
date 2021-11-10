@@ -8,7 +8,7 @@
         "website": "http://duotech.biz",
         "summary": "Entrepreneur, Product manager, and Software Engineer",
         "location": { "address": "", "postalCode": "", "city": "", "countryCode": "Japan", "region": "Chiba" },
-        "profiles": [{ "network": "Twitter", "username": "john", "url": "http://twitter.com/john" }]
+        "profiles": [{ "network": "Facebook", "username": "Sige Chen", "url": "http://facebook.com/" }]
     },
     "work": [
         {
@@ -78,11 +78,13 @@
     "skills": [
         { "name": "React", "level": "Master", "value": 100, "keywords": ["HTML", "CSS", "Javascript"] },
         { "name": "Apollo Client", "level": "Master", "value": 80, "keywords": ["HTML", "CSS", "Javascript"] },
-        { "name": "NestJS", "level": "Master", "value": 40, "keywords": ["HTML", "CSS", "Javascript"] },
+        { "name": "NestJS", "level": "Master", "value": 60, "keywords": ["HTML", "CSS", "Javascript"] },
+        { "name": "React Native", "level": "Master", "value": 60, "keywords": ["HTML", "CSS", "Javascript"] },
         { "name": "Firebase", "level": "Master", "value": 60, "keywords": ["HTML", "CSS", "Javascript"] },
         { "name": "Python", "level": "Master", "value": 20, "keywords": ["HTML", "CSS", "Javascript"] },
         { "name": "K8S", "level": "Master", "value": 80, "keywords": ["HTML", "CSS", "Javascript"] },
-        { "name": "Redshift", "level": "Master", "value": 80, "keywords": ["HTML", "CSS", "Javascript"] }
+        { "name": "Redshift", "level": "Master", "value": 80, "keywords": ["HTML", "CSS", "Javascript"] },
+        { "name": "Ad posting", "level": "Master", "value": 10, "keywords": ["Ads"] }
     ],
     "languages": [
         { "language": "English", "value": 80, "fluency": "Native speaker" },
@@ -134,6 +136,24 @@
             "images": [{ "url": "https://cdn.filestackcontent.com/NVOhKNFQR9OQ3jtkIyHi" }],
             "name": "IdealReceptionist",
             "endDate": "2020-08-01"
+        },
+        {
+            "index": 4,
+            "date": { "month": 7, "year": 2021 },
+            "description": "Doorknob agent is a platform to connect real estate agents and buyers, born at SoftBank Innoventure. It introduces an innovative way to allow users register what their ideal houses look like and get notified about selected candidates of houses from the agents.",
+            "id": "d9f7ca32-a40a-418e-affb-317bfb4f520e",
+            "images": [{ "url": "https://cdn.filestackcontent.com/NVOhKNFQR9OQ3jtkIyHi" }],
+            "name": "Doorknob",
+            "endDate": "On Going"
+        },
+        {
+            "index": 4,
+            "date": { "month": 7, "year": 2021 },
+            "description": "Famifami is a platform for users who value families to find their ideal life partners. The vision is to create a world where mature partners can have the peace of mind to create happy, loving families.",
+            "id": "d9f7ca32-a40a-418e-affb-317bfb4f520e",
+            "images": [{ "url": "https://cdn.filestackcontent.com/NVOhKNFQR9OQ3jtkIyHi" }],
+            "name": "famifami",
+            "endDate": "On Going"
         },
         {
             "index": 6,
