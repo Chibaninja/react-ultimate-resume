@@ -1,1 +1,235 @@
-{"basics":{"name":"Sige Chen","label":"Programmer","picture":"https://avatars.githubusercontent.com/u/7560042?s=460&u=f4906183b1e741dd7ac1cd7c3ad925fbe65f016b&v=4","email":"chen@duotech.biz","phone":"090-9684-2999","website":"http://duotech.biz","summary":"Entrepreneur, Product manager, and Software Engineer","location":{"address":"","postalCode":"","city":"","countryCode":"Japan","region":"Chiba"},"profiles":[{"network":"Twitter","username":"john","url":"http://twitter.com/john"}]},"work":[{"name":"DuotTech Inc.","position":"Founder","website":"http://duotech.biz","startDate":"2019-08-01","summary":"Managed several projects outsourced from a listed company Developing a game companion service, including server side and frontend","location":"Paris, France","highlights":["Started the company"]},{"name":"CI and Auto DevOps engineer","position":"Developer","startDate":"2017-04-01","endDate":"2019-07-01","summary":"Create Works way Linting to make SonarQube analysis more reasonable for Works developer.\n Design automated CI/CD pipeline and contributed environment construction tasks","location":"Paris, France","highlights":["Started the company"]},{"name":"SPD nursing management system","position":"Lead dev","summary":"Make an Android application for a Nursing home to manage the medicine distribution. \n Design management tool for the Android app to manage patients and medicine. \n The design operation flow of the medicine distribution process with the application and management tools to increase the accuracy of the distribution and store its related history data for the future analysis use","location":"Paris, France","highlights":["Started the company"]}],"volunteer":[{"organization":"Organization","position":"Volunteer","website":"http://organization.com/","endDate":"2013-01-01","summary":"Description...","highlights":["Awarded 'Volunteer of the Month'"]}],"education":[{"institution":"University of California, Irvine","area":"Software Development","studyType":"Computer Science","startDate":"2012-09-01","endDate":"2016-06-07","gpa":"3.51","courses":["DB1101 - Basic SQL"]}],"awards":[{"title":"The University of California, Irvine Dean's Honor student","date":"2014-11-01","awarder":"Company","summary":"There is no spoon."}],"publications":[{"name":"Publication","publisher":"Company","releaseDate":"2014-10-01","website":"http://publication.com","summary":"Description..."}],"skills":[{"name":"React","level":"Master","value":100,"keywords":["HTML","CSS","Javascript"]},{"name":"Apollo Client","level":"Master","value":80,"keywords":["HTML","CSS","Javascript"]},{"name":"NestJS","level":"Master","value":40,"keywords":["HTML","CSS","Javascript"]},{"name":"Firebase","level":"Master","value":60,"keywords":["HTML","CSS","Javascript"]},{"name":"Python","level":"Master","value":20,"keywords":["HTML","CSS","Javascript"]},{"name":"K8S","level":"Master","value":80,"keywords":["HTML","CSS","Javascript"]},{"name":"Redshift","level":"Master","value":80,"keywords":["HTML","CSS","Javascript"]}],"languages":[{"language":"English","value":80,"fluency":"Native speaker"},{"language":"Chinese","value":100,"fluency":"Native speaker"},{"language":"Japanese","value":90,"fluency":"Native speaker"}],"interests":[{"name":"Basketball (3 on 3)","gifUrl":"https://media1.giphy.com/media/3oD3YooLLYg0AfOPdK/giphy-downsized.gif?cid=f7fb5bbaegu1ofs48lty41dyowqsfo0wq9qq8h4czot7rwm1&rid=giphy-downsized.gif","id":"afa5739f-f868-464e-a1aa-18f5a3ff4e2b","gifUser":{"name":"Nike Football","profileUrl":"https://giphy.com/nikefootball/","isVerified":true,"profileAvatarUrl":"https://media1.giphy.com/avatars/nikefootball/vPyZcrShcXY8.jpg"}},{"name":"Burritos","gifUrl":"https://media.giphy.com/media/d8WjGORtSEWqc/giphy.gif"},{"name":"Tendresse","gifUrl":"https://media.giphy.com/media/EehnUUCH2JcwU/giphy.gif"},{"name":"Something","gifUrl":"https://media.giphy.com/media/xTiTnIuKP1BLsMTerS/giphy.gif"},{"name":"J'aime faire de la course à pied et des randonnées en famille le weekend."}],"references":[{"name":"Jane Doe","reference":"Reference..."}],"projects":[{"index":2,"date":{"month":0,"year":2016},"description":"A nursing home management system used by a drag chain store's nursing home to manage patients.","id":"af4181b1-8955-47fb-8dd9-17c6974335d3","images":[{"url":"https://cdn.filestackcontent.com/G2CckiqvScC9tsrvHYg4"}],"name":"SPD System","endDate":"2017-04-01"},{"index":3,"date":{"month":5,"year":2018},"description":"A ChatOps service built on Slack that allows developers to build/deploy their artifact with a line of simple command.","id":"c64e6ca1-6300-4d7f-a305-8cfb7c99a9e6","images":[{"url":"https://cdn.filestackcontent.com/w5oskUihSiYCxekOn9Ba"}],"name":"Rashinban","endDate":"2020-06-01"},{"index":1,"date":{"month":7,"year":2020},"description":"An AI oriented reception application built to reduce the cost of recepting visitors.","id":"d9f7ca32-a40a-418e-affb-317bfb4f520e","images":[{"url":"https://cdn.filestackcontent.com/NVOhKNFQR9OQ3jtkIyHi"}],"name":"IdealReceptionist","endDate":"2020-08-01"},{"index":6,"date":{"month":4,"year":2020},"description":"A game companion service which connects those who want companion during gaming and those who want to earn through providing the companion service.","id":"dbe2a8d9-dd9d-443d-8ae4-7a8e0b7939f5","images":[{"url":"https://cdn.filestackcontent.com/FSysoX0ATvqy2BFvLF21"}],"name":"Game companion","endDate":"2019-05-01"},{"index":0,"date":{"month":6,"year":2019},"description":"Monitoring services that used primarily by NEXCO to prevent accident to happen on highways.","id":"ffb8a4f2-24e6-44ef-bbe7-0593b86d40be","images":[{"url":"https://cdn.filestackcontent.com/7XpHKtFTC2VynppurrK5"}],"name":"Driving Weather Monitoring System","endDate":"2020-07-01"}],"specific":{"basics":{"visaSponsorship":false,"personalDescription":"An Entrepreneur trying to release services that can change the game of industry."},"dreamJob":{"locations":[{"name":"Valenciennes, France"},{"name":"Lille, France"},{"name":"Paris,France"}],"remoteFrequency":"regularly"},"currentJob":{"issues":{"boring_management":false,"boring_team":false}},"education":{"studiesLevel":4},"work":{"contractTypes":["permanent"],"codingYears":10,"codingReason":"Watched Stanford [Developing Apps for iOS CS193P] and got interested in programming or building something that works in general","searchState":"notSearching","experienceYears":0,"codeExperienceYears":4,"otherExperienceYears":2},"sound":{"embedUrl":"https://open.spotify.com/embed/playlist/37i9dQZF1DWWl7MndYYxge"},"interestedBy":"Angular, la blochain et les chatons."},"resumeCustomization":{"imageHeader":{"url":"https://cdn.filestackcontent.com/8I2wVnCRTFxypXRYLRsp","alt":"Default Banner"},"cardsOrder":[{"type":"basics","variant":4},{"type":"projects","variant":4},{"type":"skills","variant":0},{"type":"experiences","variant":4},{"type":"studies","variant":4},{"type":"language","variant":4}],"fields":{"work":{"customDateFormat":"YYYY"}},"theme":{"palette":{"primary":{"50":"#ffecf0","100":"#ffd9e0","200":"#ffb4c1","300":"#fe8ea3","400":"#fe6984","500":"#fe4365","600":"#cb3651","700":"#98283d","800":"#661b28","900":"#330d14","contrastDefaultColor":"light"},"secondary":{"50":"#fff5f5","100":"#feebeb","200":"#fed8d7","300":"#fdc4c2","400":"#fdb1ae","500":"#fc9d9a","600":"#ca7e7b","700":"#975e5c","800":"#653f3e","900":"#321f1f","contrastDefaultColor":"light"},"tertiary":{"50":"#fefaf7","100":"#fef5ef","200":"#fdebde","300":"#fbe1ce","400":"#fad7bd","500":"#f9cdad","600":"#c7a48a","700":"#957b68","800":"#645245","900":"#322923","contrastDefaultColor":"light"}}}}}
+{
+    "basics": {
+        "name": "Sige Chen",
+        "label": "Programmer",
+        "picture": "https://avatars.githubusercontent.com/u/7560042?s=460&u=f4906183b1e741dd7ac1cd7c3ad925fbe65f016b&v=4",
+        "email": "chen@duotech.biz",
+        "phone": "090-9684-2999",
+        "website": "http://duotech.biz",
+        "summary": "Entrepreneur, Product manager, and Software Engineer",
+        "location": { "address": "", "postalCode": "", "city": "", "countryCode": "Japan", "region": "Chiba" },
+        "profiles": [{ "network": "Twitter", "username": "john", "url": "http://twitter.com/john" }]
+    },
+    "work": [
+        {
+            "name": "DuotTech Inc.",
+            "position": "Founder",
+            "website": "http://duotech.biz",
+            "startDate": "2019-08-01",
+            "summary": "Managed several projects outsourced from a listed company Developing a game companion service, including server side and frontend",
+            "location": "Paris, France",
+            "highlights": ["Started the company"]
+        },
+        {
+            "name": "CI and Auto DevOps engineer",
+            "position": "Developer",
+            "startDate": "2017-04-01",
+            "endDate": "2019-07-01",
+            "summary": "Create Works way Linting to make SonarQube analysis more reasonable for Works developer.\n Design automated CI/CD pipeline and contributed environment construction tasks",
+            "location": "Paris, France",
+            "highlights": ["Started the company"]
+        },
+        {
+            "name": "SPD nursing management system",
+            "position": "Lead dev",
+            "summary": "Make an Android application for a Nursing home to manage the medicine distribution. \n Design management tool for the Android app to manage patients and medicine. \n The design operation flow of the medicine distribution process with the application and management tools to increase the accuracy of the distribution and store its related history data for the future analysis use",
+            "location": "Paris, France",
+            "highlights": ["Started the company"]
+        }
+    ],
+    "volunteer": [
+        {
+            "organization": "Organization",
+            "position": "Volunteer",
+            "website": "http://organization.com/",
+            "endDate": "2013-01-01",
+            "summary": "Description...",
+            "highlights": ["Awarded 'Volunteer of the Month'"]
+        }
+    ],
+    "education": [
+        {
+            "institution": "University of California, Irvine",
+            "area": "Software Development",
+            "studyType": "Computer Science",
+            "startDate": "2012-09-01",
+            "endDate": "2016-06-07",
+            "gpa": "3.51",
+            "courses": ["DB1101 - Basic SQL"]
+        }
+    ],
+    "awards": [
+        {
+            "title": "The University of California, Irvine Dean's Honor student",
+            "date": "2014-11-01",
+            "awarder": "Company",
+            "summary": "There is no spoon."
+        }
+    ],
+    "publications": [
+        {
+            "name": "Publication",
+            "publisher": "Company",
+            "releaseDate": "2014-10-01",
+            "website": "http://publication.com",
+            "summary": "Description..."
+        }
+    ],
+    "skills": [
+        { "name": "React", "level": "Master", "value": 100, "keywords": ["HTML", "CSS", "Javascript"] },
+        { "name": "Apollo Client", "level": "Master", "value": 80, "keywords": ["HTML", "CSS", "Javascript"] },
+        { "name": "NestJS", "level": "Master", "value": 40, "keywords": ["HTML", "CSS", "Javascript"] },
+        { "name": "Firebase", "level": "Master", "value": 60, "keywords": ["HTML", "CSS", "Javascript"] },
+        { "name": "Python", "level": "Master", "value": 20, "keywords": ["HTML", "CSS", "Javascript"] },
+        { "name": "K8S", "level": "Master", "value": 80, "keywords": ["HTML", "CSS", "Javascript"] },
+        { "name": "Redshift", "level": "Master", "value": 80, "keywords": ["HTML", "CSS", "Javascript"] }
+    ],
+    "languages": [
+        { "language": "English", "value": 80, "fluency": "Native speaker" },
+        { "language": "Chinese", "value": 100, "fluency": "Native speaker" },
+        { "language": "Japanese", "value": 90, "fluency": "Native speaker" }
+    ],
+    "interests": [
+        {
+            "name": "Basketball (3 on 3)",
+            "gifUrl": "https://media1.giphy.com/media/3oD3YooLLYg0AfOPdK/giphy-downsized.gif?cid=f7fb5bbaegu1ofs48lty41dyowqsfo0wq9qq8h4czot7rwm1&rid=giphy-downsized.gif",
+            "id": "afa5739f-f868-464e-a1aa-18f5a3ff4e2b",
+            "gifUser": {
+                "name": "Nike Football",
+                "profileUrl": "https://giphy.com/nikefootball/",
+                "isVerified": true,
+                "profileAvatarUrl": "https://media1.giphy.com/avatars/nikefootball/vPyZcrShcXY8.jpg"
+            }
+        },
+        { "name": "Burritos", "gifUrl": "https://media.giphy.com/media/d8WjGORtSEWqc/giphy.gif" },
+        { "name": "Tendresse", "gifUrl": "https://media.giphy.com/media/EehnUUCH2JcwU/giphy.gif" },
+        { "name": "Something", "gifUrl": "https://media.giphy.com/media/xTiTnIuKP1BLsMTerS/giphy.gif" },
+        { "name": "J'aime faire de la course à pied et des randonnées en famille le weekend." }
+    ],
+    "references": [{ "name": "Jane Doe", "reference": "Reference..." }],
+    "projects": [
+        {
+            "index": 2,
+            "date": { "month": 0, "year": 2016 },
+            "description": "A nursing home management system used by a drag chain store's nursing home to manage patients.",
+            "id": "af4181b1-8955-47fb-8dd9-17c6974335d3",
+            "images": [{ "url": "https://cdn.filestackcontent.com/G2CckiqvScC9tsrvHYg4" }],
+            "name": "SPD System",
+            "endDate": "2017-04-01"
+        },
+        {
+            "index": 3,
+            "date": { "month": 5, "year": 2018 },
+            "description": "A ChatOps service built on Slack that allows developers to build/deploy their artifact with a line of simple command.",
+            "id": "c64e6ca1-6300-4d7f-a305-8cfb7c99a9e6",
+            "images": [{ "url": "https://cdn.filestackcontent.com/w5oskUihSiYCxekOn9Ba" }],
+            "name": "Rashinban",
+            "endDate": "2020-06-01"
+        },
+        {
+            "index": 1,
+            "date": { "month": 7, "year": 2020 },
+            "description": "An AI oriented reception application built to reduce the cost of recepting visitors.",
+            "id": "d9f7ca32-a40a-418e-affb-317bfb4f520e",
+            "images": [{ "url": "https://cdn.filestackcontent.com/NVOhKNFQR9OQ3jtkIyHi" }],
+            "name": "IdealReceptionist",
+            "endDate": "2020-08-01"
+        },
+        {
+            "index": 6,
+            "date": { "month": 4, "year": 2020 },
+            "description": "A game companion service which connects those who want companion during gaming and those who want to earn through providing the companion service.",
+            "id": "dbe2a8d9-dd9d-443d-8ae4-7a8e0b7939f5",
+            "images": [{ "url": "https://cdn.filestackcontent.com/FSysoX0ATvqy2BFvLF21" }],
+            "name": "Game companion",
+            "endDate": "2019-05-01"
+        },
+        {
+            "index": 0,
+            "date": { "month": 6, "year": 2019 },
+            "description": "Monitoring services that used primarily by NEXCO to prevent accident to happen on highways.",
+            "id": "ffb8a4f2-24e6-44ef-bbe7-0593b86d40be",
+            "images": [{ "url": "https://cdn.filestackcontent.com/7XpHKtFTC2VynppurrK5" }],
+            "name": "Driving Weather Monitoring System",
+            "endDate": "2020-07-01"
+        }
+    ],
+    "specific": {
+        "basics": {
+            "visaSponsorship": false,
+            "personalDescription": "An Entrepreneur trying to release services that can change the game of industry."
+        },
+        "dreamJob": {
+            "locations": [{ "name": "Valenciennes, France" }, { "name": "Lille, France" }, { "name": "Paris,France" }],
+            "remoteFrequency": "regularly"
+        },
+        "currentJob": { "issues": { "boring_management": false, "boring_team": false } },
+        "education": { "studiesLevel": 4 },
+        "work": {
+            "contractTypes": ["permanent"],
+            "codingYears": 10,
+            "codingReason": "Watched Stanford [Developing Apps for iOS CS193P] and got interested in programming or building something that works in general",
+            "searchState": "notSearching",
+            "experienceYears": 0,
+            "codeExperienceYears": 4,
+            "otherExperienceYears": 2
+        },
+        "sound": { "embedUrl": "https://open.spotify.com/embed/playlist/37i9dQZF1DWWl7MndYYxge" },
+        "interestedBy": "Angular, la blochain et les chatons."
+    },
+    "resumeCustomization": {
+        "imageHeader": { "url": "https://cdn.filestackcontent.com/8I2wVnCRTFxypXRYLRsp", "alt": "Default Banner" },
+        "cardsOrder": [
+            { "type": "basics", "variant": 4 },
+            { "type": "projects", "variant": 4 },
+            { "type": "skills", "variant": 0 },
+            { "type": "experiences", "variant": 4 },
+            { "type": "studies", "variant": 4 },
+            { "type": "language", "variant": 4 }
+        ],
+        "fields": { "work": { "customDateFormat": "YYYY" } },
+        "theme": {
+            "palette": {
+                "primary": {
+                    "50": "#ffecf0",
+                    "100": "#ffd9e0",
+                    "200": "#ffb4c1",
+                    "300": "#fe8ea3",
+                    "400": "#fe6984",
+                    "500": "#fe4365",
+                    "600": "#cb3651",
+                    "700": "#98283d",
+                    "800": "#661b28",
+                    "900": "#330d14",
+                    "contrastDefaultColor": "light"
+                },
+                "secondary": {
+                    "50": "#fff5f5",
+                    "100": "#feebeb",
+                    "200": "#fed8d7",
+                    "300": "#fdc4c2",
+                    "400": "#fdb1ae",
+                    "500": "#fc9d9a",
+                    "600": "#ca7e7b",
+                    "700": "#975e5c",
+                    "800": "#653f3e",
+                    "900": "#321f1f",
+                    "contrastDefaultColor": "light"
+                },
+                "tertiary": {
+                    "50": "#fefaf7",
+                    "100": "#fef5ef",
+                    "200": "#fdebde",
+                    "300": "#fbe1ce",
+                    "400": "#fad7bd",
+                    "500": "#f9cdad",
+                    "600": "#c7a48a",
+                    "700": "#957b68",
+                    "800": "#645245",
+                    "900": "#322923",
+                    "contrastDefaultColor": "light"
+                }
+            }
+        }
+    }
+}

@@ -49,7 +49,7 @@ const DEFAULT_OPTIONS ={
     },
     maxCardsPerRow: null,
     showContactInfos: false,
-    dismissFooter: false
+    dismissFooter: true
 };
 
 const DEFAULT_OBJECT = {};
