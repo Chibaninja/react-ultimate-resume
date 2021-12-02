@@ -32,7 +32,7 @@
             "position": "エンジニア",
             "startDate": "2017-04-01",
             "endDate": "2019-07-01",
-            "summary": "ソースコード質管理、ChatOps等ツールを作成。開発チームの生産性を向上。",
+            "summary": "ソースコード品質管理、ChatOps等ツールを作成。開発チームの生産性を向上。",
             "location": "Tokyo, Japan",
             "highlights": ["Started the company"]
         }
@@ -183,7 +183,7 @@
             "id": "d9f7ca32-a40a-411e-avfb-317bfb4f520e",
             "images": [],
             "name": "Doorknob (SoftBank)",
-            "endDate": "2021-12-01",
+            "endDate": "2021",
             "link": "https://www.doorknobagent.com/"
         },
         {
@@ -212,6 +212,7 @@
             "id": "dbe2a8d9-dd9d-443d-8ae4-7a8e0b7939f5",
             "images": [],
             "name": "GameMates (自社サービス)",
+            "endDate": "2021-07-01",
             "link": "https://www.gamemates.app/"
         },
         {
@@ -230,7 +231,7 @@
             "id": "c64e6ca1-6300-4d7f-a305-8cfb7c99a9e6",
             "images": [{ "url": "https://cdn.filestackcontent.com/w5oskUihSiYCxekOn9Ba" }],
             "name": "Rashinban (ワークスアプリケーションズ)",
-            "endDate": "2020-06-01"
+            "endDate": "2018-06-01"
         },
         {
             "index": 6,
@@ -239,7 +240,7 @@
             "id": "d9f7ca32-a40a-418e-affb-317bfb4f520e",
             "images": [{ "url": "https://cdn.filestackcontent.com/NVOhKNFQR9OQ3jtkIyHi" }],
             "name": "IdealReceptionist (ジャンガテック)",
-            "endDate": "2020-08-01"
+            "endDate": "2019-08-01"
         }
     ],
     "specific": {
