@@ -1,39 +1,39 @@
 {
     "basics": {
         "name": "Sige Chen",
-        "label": "Programmer",
+        "label": "Entrepreneur",
         "picture": "https://avatars.githubusercontent.com/u/7560042?s=460&u=f4906183b1e741dd7ac1cd7c3ad925fbe65f016b&v=4",
         "email": "chen@duotech.biz",
         "phone": "090-9684-2999",
         "website": "http://duotech.biz",
-        "summary": "Entrepreneur, Product manager, and Software Engineer",
-        "location": { "address": "", "postalCode": "", "city": "", "countryCode": "Japan", "region": "Chiba" },
+        "summary": "事業主, PM, SE",
+        "location": {
+            "address": "",
+            "postalCode": "",
+            "city": "東京",
+            "countryCode": "Japan",
+            "region": "",
+            "name": "株式会社DuoTech"
+        },
         "profiles": [{ "network": "Facebook", "username": "Sige Chen", "url": "http://facebook.com/" }]
     },
     "work": [
         {
-            "name": "DuotTech Inc.",
-            "position": "Founder",
+            "name": "株式会社DuoTech",
+            "position": "創業者",
             "website": "http://duotech.biz",
             "startDate": "2019-08-01",
-            "summary": "Managed several projects outsourced from a listed company Developing a game companion service, including server side and frontend",
-            "location": "Paris, France",
+            "summary": "上場企業の開発案件を多数納品し、自社開発で不動産マッチングアプリ、出会系アプリ等のサービス、運営をしている。",
+            "location": "Tokyo, Japan",
             "highlights": ["Started the company"]
         },
         {
-            "name": "CI and Auto DevOps engineer",
-            "position": "Developer",
+            "name": "株式会社ワークスアプリケーションズ",
+            "position": "エンジニア",
             "startDate": "2017-04-01",
             "endDate": "2019-07-01",
-            "summary": "Create Works way Linting to make SonarQube analysis more reasonable for Works developer.\n Design automated CI/CD pipeline and contributed environment construction tasks",
-            "location": "Paris, France",
-            "highlights": ["Started the company"]
-        },
-        {
-            "name": "SPD nursing management system",
-            "position": "Lead dev",
-            "summary": "Make an Android application for a Nursing home to manage the medicine distribution. \n Design management tool for the Android app to manage patients and medicine. \n The design operation flow of the medicine distribution process with the application and management tools to increase the accuracy of the distribution and store its related history data for the future analysis use",
-            "location": "Paris, France",
+            "summary": "ソースコード質管理、ChatOps等ツールを作成。開発チームの生産性を向上。",
+            "location": "Tokyo, Japan",
             "highlights": ["Started the company"]
         }
     ],
@@ -76,20 +76,86 @@
         }
     ],
     "skills": [
-        { "name": "React", "level": "Master", "value": 100, "keywords": ["HTML", "CSS", "Javascript"] },
-        { "name": "Apollo Client", "level": "Master", "value": 80, "keywords": ["HTML", "CSS", "Javascript"] },
-        { "name": "NestJS", "level": "Master", "value": 60, "keywords": ["HTML", "CSS", "Javascript"] },
-        { "name": "React Native", "level": "Master", "value": 60, "keywords": ["HTML", "CSS", "Javascript"] },
-        { "name": "Firebase", "level": "Master", "value": 60, "keywords": ["HTML", "CSS", "Javascript"] },
-        { "name": "Python", "level": "Master", "value": 20, "keywords": ["HTML", "CSS", "Javascript"] },
-        { "name": "K8S", "level": "Master", "value": 80, "keywords": ["HTML", "CSS", "Javascript"] },
-        { "name": "Redshift", "level": "Master", "value": 80, "keywords": ["HTML", "CSS", "Javascript"] },
-        { "name": "Ad posting", "level": "Master", "value": 10, "keywords": ["Ads"] }
+        {
+            "name": "React",
+            "level": "Master",
+            "value": 100,
+            "keywords": ["HTML", "CSS", "Javascript"],
+            "index": 0,
+            "id": "ecb447e7-0b38-494a-afea-abf3c0030c9b"
+        },
+        {
+            "name": "Apollo Client",
+            "level": "Master",
+            "value": 80,
+            "keywords": ["HTML", "CSS", "Javascript"],
+            "index": 1,
+            "id": "cff1fdca-c877-4168-a3f1-309fe925014b"
+        },
+        {
+            "name": "NestJS",
+            "level": "Master",
+            "value": 60,
+            "keywords": ["HTML", "CSS", "Javascript"],
+            "index": 2,
+            "id": "5ce69e88-059f-4984-b660-1e8008091075"
+        },
+        {
+            "name": "Prototyping",
+            "level": "Master",
+            "value": 70,
+            "keywords": ["Ads"],
+            "index": 3,
+            "id": "f85fb41f-3293-43ac-87a9-7a4fa7990d52"
+        },
+        {
+            "name": "React Native",
+            "level": "Master",
+            "value": 60,
+            "keywords": ["HTML", "CSS", "Javascript"],
+            "index": 4,
+            "id": "93d3e88a-6b00-4704-af45-2a5dbac2ac79"
+        },
+        { "name": "Git", "index": 5, "value": 76, "id": "ee78e8c2-770e-4517-84e2-61d0258875ad" },
+        {
+            "name": "Firebase",
+            "level": "Master",
+            "value": 60,
+            "keywords": ["HTML", "CSS", "Javascript"],
+            "index": 6,
+            "id": "b3c230fe-1c9f-4020-84ab-562203b8e23d"
+        },
+        { "name": "Docker", "index": 7, "value": 72, "id": "a75abbbf-a6ac-4b6c-970e-2ca03be49bc0" },
+        { "name": "Amazon Web Services", "index": 8, "value": 74, "id": "7e2d6e25-0f4a-4930-a19c-4f49a946ea06" },
+        {
+            "name": "Python",
+            "level": "Master",
+            "value": 82,
+            "keywords": ["HTML", "CSS", "Javascript"],
+            "index": 9,
+            "id": "92f63798-dab9-4cea-bd62-bed4fde32641"
+        },
+        {
+            "name": "K8S",
+            "level": "Master",
+            "value": 66,
+            "keywords": ["HTML", "CSS", "Javascript"],
+            "index": 10,
+            "id": "c2a6c921-21e0-416f-b017-4d3b527710d2"
+        },
+        {
+            "name": "Ad posting",
+            "level": "Master",
+            "value": 50,
+            "keywords": ["Ads"],
+            "index": 11,
+            "id": "552a5e59-43ad-43dd-9044-d53389f424f2"
+        }
     ],
     "languages": [
-        { "language": "English", "value": 80, "fluency": "Native speaker" },
+        { "language": "English", "value": 80, "fluency": "Proficient" },
         { "language": "Chinese", "value": 100, "fluency": "Native speaker" },
-        { "language": "Japanese", "value": 90, "fluency": "Native speaker" }
+        { "language": "Japanese", "value": 100, "fluency": "Native speaker" }
     ],
     "interests": [
         {
@@ -111,73 +177,75 @@
     "references": [{ "name": "Jane Doe", "reference": "Reference..." }],
     "projects": [
         {
-            "index": 2,
-            "date": { "month": 0, "year": 2016 },
-            "description": "A nursing home management system used by a drag chain store's nursing home to manage patients.",
-            "id": "af4181b1-8955-47fb-8dd9-17c6974335d3",
-            "images": [{ "url": "https://cdn.filestackcontent.com/G2CckiqvScC9tsrvHYg4" }],
-            "name": "SPD System",
-            "endDate": "2017-04-01"
-        },
-        {
-            "index": 4,
-            "date": { "month": 5, "year": 2018 },
-            "description": "A ChatOps service built on Slack that allows developers to build/deploy their artifact with a line of simple command.",
-            "id": "c64e6ca1-6300-4d7f-a305-8cfb7c99a9e6",
-            "images": [{ "url": "https://cdn.filestackcontent.com/w5oskUihSiYCxekOn9Ba" }],
-            "name": "Rashinban",
-            "endDate": "2020-06-01"
-        },
-        {
-            "index": 5,
-            "date": { "month": 7, "year": 2020 },
-            "description": "An AI oriented reception application built to reduce the cost of recepting visitors.",
-            "id": "d9f7ca32-a40a-418e-affb-317bfb4f520e",
-            "images": [{ "url": "https://cdn.filestackcontent.com/NVOhKNFQR9OQ3jtkIyHi" }],
-            "name": "IdealReceptionist",
-            "endDate": "2020-08-01"
-        },
-        {
             "index": 0,
-            "date": { "month": 7, "year": 2021 },
-            "description": "Doorknob agent is a platform to connect real estate agents and buyers, born at SoftBank Innoventure. It introduces an innovative way to allow users register what their ideal houses look like and get notified about selected candidates of houses from the agents.",
-            "id": "d9f7ca32-a40a-418e-affb-317bfb4f520e",
-            "images": [{ "url": "https://cdn.filestackcontent.com/NVOhKNFQR9OQ3jtkIyHi" }],
-            "name": "Doorknob",
-            "endDate": "2020"
+            "date": "2021-11-30T15:00:00.000Z",
+            "description": "不動産エージェントマッチングアプリDOORKNOBは、物件探しからではなく信頼できる不動産エージェント(担当者)探しから始められるこれからの不動産の形を提供します。DOORKNOBではPMとUXデザインを担当し、現状でもアプリの運営は続いている。",
+            "id": "d9f7ca32-a40a-411e-avfb-317bfb4f520e",
+            "images": [],
+            "name": "Doorknob (SoftBank)",
+            "endDate": "2021-12-01",
+            "link": "https://www.doorknobagent.com/"
         },
         {
             "index": 1,
-            "date": { "month": 7, "year": 2021 },
-            "description": "Famifami is a platform for users who value families to find their ideal life partners. The vision is to create a world where mature partners can have the peace of mind to create happy, loving families.",
+            "date": "2020-12-31T15:00:00.000Z",
+            "description": "famifamiはアメリカシリコンバレーで立ち上げた真面目系マッチングアプリです。子育て、家計、家庭内役割、婚前契約も含め、結婚後の重要要素をサービス内で積極的に機能としてこれらの会話をさせることで結婚に対して真面目でコミットできる人が優位性を持てる仕組みがあるサービス。\nFamifamiでプロダクトマネージャー、広告マネージャ、運営支援を担当し、低い予算でユーザーを10000人まで伸ばした。",
             "id": "d9f7ca32-a40a-418e-affb-317bfb4f520e",
-            "images": [{ "url": "https://cdn.filestackcontent.com/NVOhKNFQR9OQ3jtkIyHi" }],
-            "name": "famifami",
-            "endDate": "2021"
+            "images": [],
+            "name": "Famifami (アメリカシリコンバレー)",
+            "endDate": "2021-01-01",
+            "link": "https://www.famifami.co/"
         },
         {
             "index": 2,
-            "date": { "month": 4, "year": 2020 },
-            "description": "A game companion service which connects those who want companion during gaming and those who want to earn through providing the companion service.",
+            "date": "2019-04-30T15:00:00.000Z",
+            "description": "SPDシステムは千葉薬品が運営している老人ホームで処方を管理監視するシステムです。\n当システムは各患者さんの朝昼晩の処方が時間通りで正しく配られているかどうかを管理監視し、その結果を本部で確認し一元管理ができるシステムです。\nSPDでは課題に対して、提案から開発、納品を一人で担当し、３ヶ月で納品した。",
             "id": "dbe2a8d9-dd9d-443d-8ae4-7a8e0b7939f5",
-            "images": [{ "url": "https://cdn.filestackcontent.com/FSysoX0ATvqy2BFvLF21" }],
-            "name": "Game companion",
-            "endDate": "2019-05-01"
+            "images": [],
+            "name": "SPD (千葉薬品)",
+            "endDate": "2017-03-01"
         },
         {
             "index": 3,
-            "date": { "month": 6, "year": 2019 },
-            "description": "Monitoring services that used primarily by NEXCO to prevent accident to happen on highways.",
+            "date": "2019-04-30T15:00:00.000Z",
+            "description": "GameMatesはゲーマーや配信者の方とファンが1対1でゲームできるプラットフォーム。ファンとの新たなコミュニケーション・収益化の手段として、ゲーム配信と合わせてご活用いただけます。ワンクリックマッチアップ機能を日本で初めて実装したゲームマッチングアプリです。",
+            "id": "dbe2a8d9-dd9d-443d-8ae4-7a8e0b7939f5",
+            "images": [],
+            "name": "GameMates (自社サービス)",
+            "link": "https://www.gamemates.app/"
+        },
+        {
+            "index": 4,
+            "date": "2020-06-30T15:00:00.000Z",
+            "description": "ドライビングウェザーモニタリングシステムはウェザーニューズがNEXCO日本に向けて提供している高速道路状況管理システムです。当システムでは、気象データ、監視カメライメージ、通行止め等交通情報がタイムリに各地点でわかる様になっています。",
             "id": "ffb8a4f2-24e6-44ef-bbe7-0593b86d40be",
             "images": [{ "url": "https://cdn.filestackcontent.com/7XpHKtFTC2VynppurrK5" }],
-            "name": "Driving Weather Monitoring System",
+            "name": "ドライビングウェザーモニタリングシステム (WeatherNews)",
             "endDate": "2020-07-01"
+        },
+        {
+            "index": 5,
+            "date": "2020-05-31T15:00:00.000Z",
+            "description": "ChatOpsで1000人以上の開発者が毎日行うリリースデプロイをSlack上でコマンドを入力するだけで実行、状況確認ができる仕組みを作成。",
+            "id": "c64e6ca1-6300-4d7f-a305-8cfb7c99a9e6",
+            "images": [{ "url": "https://cdn.filestackcontent.com/w5oskUihSiYCxekOn9Ba" }],
+            "name": "Rashinban (ワークスアプリケーションズ)",
+            "endDate": "2020-06-01"
+        },
+        {
+            "index": 6,
+            "date": "2020-07-31T15:00:00.000Z",
+            "description": "顔識別とOCRによる名刺識別で受付対応を自動化するシステム。設計からリリース運営を全般的に担当。",
+            "id": "d9f7ca32-a40a-418e-affb-317bfb4f520e",
+            "images": [{ "url": "https://cdn.filestackcontent.com/NVOhKNFQR9OQ3jtkIyHi" }],
+            "name": "IdealReceptionist (ジャンガテック)",
+            "endDate": "2020-08-01"
         }
     ],
     "specific": {
         "basics": {
             "visaSponsorship": false,
-            "personalDescription": "An Entrepreneur trying to release services that can change the game of industry."
+            "personalDescription": "An Entrepreneur trying to release services that can change the game of the industry."
         },
         "dreamJob": {
             "locations": [{ "name": "Valenciennes, France" }, { "name": "Lille, France" }, { "name": "Paris,France" }],
@@ -198,7 +266,7 @@
         "interestedBy": "Angular, la blochain et les chatons."
     },
     "resumeCustomization": {
-        "imageHeader": { "url": "https://cdn.filestackcontent.com/8I2wVnCRTFxypXRYLRsp", "alt": "Default Banner" },
+        "imageHeader": null,
         "cardsOrder": [
             { "type": "basics", "variant": 4 },
             { "type": "projects", "variant": 4 },
